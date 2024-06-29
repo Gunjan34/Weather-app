@@ -11,7 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     /* background-color: #95c1fa; */
-    background-image: url("assets/weather1.jpg");
+    background-image: url("weather1.jpg");
 }
 .container{
     width: 400px;
